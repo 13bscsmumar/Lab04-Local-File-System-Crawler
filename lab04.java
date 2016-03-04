@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class Crawler
+public class lab04
 {
    public List<File> crawl(String path, int depth)
    {
